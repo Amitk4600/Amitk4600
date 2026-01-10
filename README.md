@@ -31,7 +31,10 @@ I focus on solving **real business problems**, not just creating charts.
 ## 🔹 Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi,mysql,python,excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 - **Power BI**: DAX, KPIs, Data Modeling, Dashboard Design  
@@ -63,7 +66,7 @@ Seeking opportunities as a **Data Analyst** while also working on
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn**: https://www.linkedin.com/in/your-link  
-- **Email**: your-email@example.com  
+- **LinkedIn**: https://www.linkedin.com/in/amit-kumar-7a900a60/  
+- **Email**: amitk4600@gmail.com 
 
 💼 Open to full-time roles, internships & freelance work
