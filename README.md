@@ -36,14 +36,13 @@ I am a **Data Analyst & Freelancer** specialized in transforming raw, complex da
       <img src="https://img.shields.io/badge/DAX-20232A?style=flat-square&logo=powerbi"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
     </td>
-    <td width="50%" align="center" style="border: none;">
+  <td width="50%" align="center" style="border: none;">
   <h4 align="center">📈 GitHub Performance</h4>
-  <img 
-    src="https://streak-stats.demolab.com?user=Amitk4600&theme=react&hide_border=true" 
-    width="350"
-    alt="GitHub Streak Stats"
-  />
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=Amitk4600&theme=default&hide_border=true" width="350"/>
+  </p>
 </td>
+
 
   </tr>
 </table>
