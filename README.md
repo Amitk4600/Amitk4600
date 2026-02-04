@@ -38,7 +38,7 @@ I am a **Data Analyst & Freelancer** specialized in transforming raw, complex da
     </td>
     <td width="50%" align="center" style="border: none;">
       <h4>📈 GitHub Performance</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=Amitk4600&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" width="350px"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amitk4600&theme=react&hide_border=true" width="350px"/>
     </td>
   </tr>
 </table>
