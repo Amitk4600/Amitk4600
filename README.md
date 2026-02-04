@@ -1,70 +1,78 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Analyst;Power+BI+Expert;SQL+%26+Python+Specialist;Turning+Data+Into+Business+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Power+BI+%7C+SQL+%7C+Python;Turning+Data+Into+Business+Insights&center=true&width=520&height=45">
 </p>
 
 <h1 align="center">👋 Hi, I'm Amit Kumar</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amit-kumar-7a900a60/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:amitk4600@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-<p align="center">
-  <strong>Data Analyst | Freelancer | Business Intelligence Specialist</strong><br>
-  Helping businesses bridge the gap between complex data and strategic decisions.
+📊 Data Analyst | Power BI • SQL • Python  
+<br/>
+Turning raw data into meaningful insights for business decisions
 </p>
 
 ---
 
-### ⚡ Quick Overview
+## 🔹 About Me
+I am a **data analyst and freelancer** with hands-on experience in  
+Power BI dashboards, SQL-based analysis, and Python data processing.
 
-- 🔭 **Current Focus:** Building automated Power BI solutions and freelance data modeling.
-- ⚡ **Philosophy:** Data is just noise until you find the story that drives revenue.
-- 💬 **Ask me about:** DAX optimization, SQL query tuning, and ETL pipelines.
-- 🎯 **Goal:** Transitioning complex datasets into high-impact visual stories.
+I focus on solving **real business problems**, not just creating charts.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🔹 What I Do
+- Build interactive **Power BI dashboards**
+- Analyze sales, finance & operational data
+- Clean, model & transform raw datasets
+- Deliver clear insights for decision-making
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Data Visualization** | `Power BI` `Tableau` `Matplotlib` `Seaborn` |
-| **Data Processing** | `SQL (MySQL / PostgreSQL)` `Python` `Excel (VBA/PowerQuery)` |
-| **Libraries** | `Pandas` `NumPy` `Scikit-Learn` |
-| **Soft Skills** | `Stakeholder Management` `Requirement Gathering` `Data Storytelling` |
+---
+
+## 🔹 Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+
+- **Power BI**: DAX, KPIs, Data Modeling, Dashboard Design  
+- **SQL (MySQL)**: Joins, Subqueries, Aggregations  
+- **Python**: Pandas, NumPy, Matplotlib  
+- **Excel**: Pivot Tables, Advanced Formulas  
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amitk4600&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitk4600&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 🔹 Featured Project
+### 🍕 Pizza Sales Analysis Dashboard (Power BI)
+- Designed an interactive dashboard with business KPIs
+- Analyzed peak hours, top-selling pizzas & categories
+- Added a **Key Insights panel** for quick decision-making
 
 ---
 
-### 📂 Featured Project: Pizza Sales Analysis
-> **Problem:** Client needed to identify delivery bottlenecks and low-margin menu items.
-- **Solution:** Engineered a Power BI Dashboard featuring **Advanced DAX** for Time-Intelligence.
-- **Impact:** Identified 15% revenue leakage during peak hours and optimized inventory scheduling.
-- [**View Project Repository ↗**](https://github.com/Amitk4600)
+## 🔹 Why Work With Me
+- Business-focused dashboards
+- Clean visuals with actionable insights
+- Clear communication & reliable delivery
 
 ---
 
-###🤝 Let's Collaborate
-I am currently open to **Full-time opportunities** and **Freelance projects**. If you have a dataset that needs cleaning or a business problem that needs a dashboard, let's talk!
+## 🔹 Career Objective
+Seeking opportunities as a **Data Analyst** while also working on  
+**freelance and contract-based projects**.
 
-- 📬 **Email:** [amitk4600@gmail.com](mailto:amitk4600@gmail.com)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/amit-kumar-7a900a60/)
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" />
-</p>
+## 📫 Connect With Me
+- **LinkedIn**: https://www.linkedin.com/in/amit-kumar-7a900a60/  
+- **Email**: amitk4600@gmail.com 
+
+💼 Open to full-time roles, internships & freelance work
+
+iss github ka only design polish like a profeesional
