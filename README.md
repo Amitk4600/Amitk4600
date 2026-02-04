@@ -1,76 +1,75 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Power+BI+%7C+SQL+%7C+Python;Turning+Data+Into+Business+Insights&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Turning+Data+Into+Business+Insights;Open+to+Jobs+%26+Freelance&center=true&width=720&height=40">
 </p>
 
-<h1 align="center">👋 Hi, I'm Amit Kumar</h1>
+<h2 align="center">👋 Amit Kumar</h2>
 
 <p align="center">
-📊 Data Analyst | Power BI • SQL • Python  
+📊 Data Analyst & Freelancer  
 <br/>
-Turning raw data into meaningful insights for business decisions
+Power BI • SQL • Python
 </p>
 
 ---
 
-## 🔹 About Me
-I am a **data analyst and freelancer** with hands-on experience in  
-Power BI dashboards, SQL-based analysis, and Python data processing.
+<!-- SKILLS + STATS IN ONE ROW -->
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-I focus on solving **real business problems**, not just creating charts.
+### 🧠 Skills
 
----
+<img src="https://skillicons.dev/icons?i=python,mysql,excel&perline=3" />
 
-## 🔹 What I Do
-- Build interactive **Power BI dashboards**
-- Analyze sales, finance & operational data
-- Clean, model & transform raw datasets
-- Deliver clear insights for decision-making
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-20232A?style=flat"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat"/>
 
----
+</td>
 
-## 🔹 Skills
+<td align="center" width="50%">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+### 📈 GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true" />
 
-- **Power BI**: DAX, KPIs, Data Modeling, Dashboard Design  
-- **SQL (MySQL)**: Joins, Subqueries, Aggregations  
-- **Python**: Pandas, NumPy, Matplotlib  
-- **Excel**: Pivot Tables, Advanced Formulas  
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔹 Featured Project
-### 🍕 Pizza Sales Analysis Dashboard (Power BI)
-- Designed an interactive dashboard with business KPIs
-- Analyzed peak hours, top-selling pizzas & categories
-- Added a **Key Insights panel** for quick decision-making
+## 🔹 About
+I’m a data analyst who enjoys turning messy, real-world data into  
+**clear insights that help businesses take action**.
+
+I focus on **why numbers behave the way they do**, not just visuals.
 
 ---
 
-## 🔹 Why Work With Me
-- Business-focused dashboards
-- Clean visuals with actionable insights
-- Clear communication & reliable delivery
+## 🔹 Featured Work
+**🍕 Pizza Sales Analysis (Power BI)**  
+- 50K+ records analyzed  
+- Revenue, AOV & peak-hour KPIs  
+- Business-ready insights panel
 
 ---
 
-## 🔹 Career Objective
-Seeking opportunities as a **Data Analyst** while also working on  
-**freelance and contract-based projects**.
+## 🔹 What I Deliver
+- Interactive Power BI dashboards  
+- SQL-based analysis & reporting  
+- Python data cleaning & visualization  
+- Clear, decision-focused insights
 
 ---
 
-## 📫 Connect With Me
-- **LinkedIn**: https://www.linkedin.com/in/amit-kumar-7a900a60/  
-- **Email**: amitk4600@gmail.com 
+## 📊 Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=minimal" />
 
-💼 Open to full-time roles, internships & freelance work
+---
+
+## 🤝 Connect
+- LinkedIn: https://www.linkedin.com/in/amit-kumar-7a900a60/
+- Email: amitk4600@gmail.com  
+
+💡 Open to full-time roles, internships & freelance projects
